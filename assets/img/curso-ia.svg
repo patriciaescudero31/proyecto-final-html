@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 300" role="img" aria-labelledby="title desc">
+  <title id="title">Inteligencia artificial</title>
+  <desc id="desc">Nodos conectados representan una red de inteligencia artificial.</desc>
+  <rect width="480" height="300" rx="24" fill="#e9f4f7"/>
+  <g stroke="#39708d" stroke-width="8"><path d="m119 85 111 65 126-55M119 85l35 132 76-67m0 0 126 67-11-122m-191 122 191-122"/></g>
+  <g fill="#17324d" stroke="#fff" stroke-width="7"><circle cx="119" cy="85" r="24"/><circle cx="230" cy="150" r="28"/><circle cx="356" cy="95" r="24"/><circle cx="154" cy="217" r="24"/><circle cx="356" cy="217" r="24"/></g>
+  <circle cx="230" cy="150" r="10" fill="#ffc857"/>
+</svg>

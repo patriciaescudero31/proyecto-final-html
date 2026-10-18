@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 300" role="img" aria-labelledby="title desc">
+  <title id="title">Desarrollo web</title>
+  <desc id="desc">Una ventana de código con etiquetas HTML.</desc>
+  <rect width="480" height="300" rx="24" fill="#e9f4f7"/>
+  <rect x="70" y="50" width="340" height="200" rx="16" fill="#17324d"/>
+  <path d="M70 88h340" stroke="#39708d" stroke-width="38"/>
+  <circle cx="95" cy="69" r="6" fill="#e97761"/><circle cx="117" cy="69" r="6" fill="#ffc857"/><circle cx="139" cy="69" r="6" fill="#65b891"/>
+  <path d="m154 141-28 21 28 21m172-42 28 21-28 21m-54-57-22 72" fill="none" stroke="#ffc857" stroke-linecap="round" stroke-linejoin="round" stroke-width="11"/>
+</svg>

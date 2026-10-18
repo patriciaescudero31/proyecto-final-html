@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 480" role="img" aria-labelledby="title desc">
+  <title id="title">Aprendizaje digital</title>
+  <desc id="desc">Una estudiante trabaja en una página web desde su ordenador.</desc>
+  <rect width="480" height="480" rx="28" fill="#e9f4f7"/>
+  <circle cx="380" cy="86" r="42" fill="#ffc857"/>
+  <rect x="40" y="96" width="340" height="225" rx="15" fill="#17324d"/>
+  <rect x="55" y="112" width="310" height="191" rx="8" fill="#fff"/>
+  <path d="M55 136h310" stroke="#d8e5ec" stroke-width="22"/>
+  <circle cx="70" cy="136" r="4" fill="#e97761"/><circle cx="86" cy="136" r="4" fill="#ffc857"/><circle cx="102" cy="136" r="4" fill="#65b891"/>
+  <path d="M82 171h142M82 194h197M82 217h114M82 240h170" stroke="#39708d" stroke-linecap="round" stroke-width="9"/>
+  <path d="M190 321h70l24 28h-118z" fill="#39708d"/>
+  <circle cx="330" cy="363" r="40" fill="#e6a27e"/>
+  <path d="M294 358c5-43 63-51 77-12l-12 8-8-15-11 17-15-14-9 19z" fill="#17324d"/>
+  <path d="M256 480c5-67 31-91 74-91s69 24 74 91" fill="#65b891"/>
+</svg>

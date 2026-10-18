@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Aprendizaje digital</title>
+  <desc id="desc">Una estudiante trabaja en una página web desde su ordenador.</desc>
+  <rect width="720" height="420" rx="28" fill="#e9f4f7"/>
+  <circle cx="568" cy="98" r="47" fill="#ffc857"/>
+  <rect x="120" y="83" width="370" height="238" rx="16" fill="#17324d"/>
+  <rect x="136" y="101" width="338" height="198" rx="8" fill="#fff"/>
+  <path d="M136 126h338" stroke="#d8e5ec" stroke-width="25"/>
+  <circle cx="153" cy="125" r="5" fill="#e97761"/><circle cx="171" cy="125" r="5" fill="#ffc857"/><circle cx="189" cy="125" r="5" fill="#65b891"/>
+  <path d="M170 164h158M170 188h213M170 212h128M170 236h184" stroke="#39708d" stroke-linecap="round" stroke-width="10"/>
+  <path d="M263 321h85l28 30H235z" fill="#39708d"/>
+  <circle cx="512" cy="214" r="48" fill="#e6a27e"/>
+  <path d="M470 206c6-49 75-61 91-13l-14 6-9-19-12 20-17-17-11 23z" fill="#17324d"/>
+  <path d="M445 340c6-76 33-105 68-105s63 29 69 105" fill="#65b891"/>
+  <path d="M0 356c107-26 194 24 295 5 131-25 244-16 425 6v53H0z" fill="#c5e3e8"/>
+</svg>

@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <title>Registro | Conquer Academy</title>
+  <meta name="description" content="Regístrate en Conquer Academy.">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body>
+  <header>
+    <figure>
+      <a href="../index.html"><img width="220" src="../assets/img/logo-conquer-academy.svg" alt="Logotipo de Conquer Academy"></a>
+    </figure>
+    <nav>
+      <ul>
+        <li><a href="../index.html">Inicio</a></li>
+        <li><a href="quienes-somos.html">Quiénes somos</a></li>
+        <li><a href="cursos.html">Cursos</a></li>
+        <li><a href="blog.html">Blog</a></li>
+        <li>Registro</li>
+        <li><a href="login.html">Login</a></li>
+        <li><a href="contacto.html">Contacto</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <h1>Regístrate</h1>
+    <p>Completa el formulario para crear tu perfil de estudiante.</p>
+    <form action="" method="post" enctype="multipart/form-data">
+      <p>
+        <label for="nombre">Nombre completo</label>
+        <input type="text" name="nombre" id="nombre">
+      </p>
+      <p>
+        <label for="nacimiento">Fecha de nacimiento</label>
+        <input type="date" name="nacimiento" id="nacimiento">
+      </p>
+      <p>
+        <label for="email">Email</label>
+        <input type="email" name="email" id="email" required>
+      </p>
+      <p>
+        <label for="direccion">Dirección</label>
+        <input type="text" name="direccion" id="direccion">
+      </p>
+      <p>
+        <label for="web">Página web</label>
+        <input type="url" name="web" id="web">
+      </p>
+      <p>
+        <label for="foto">Foto</label>
+        <input type="file" name="foto" id="foto">
+      </p>
+      <p>
+        <label for="biografia">Biografía</label><br>
+        <textarea name="biografia" id="biografia" cols="30" rows="5"></textarea>
+      </p>
+      <p>
+        <button>Enviar</button>
+        <input type="reset" value="Borrar formulario">
+      </p>
+    </form>
+  </main>
+
+  <footer>
+    <p>&copy; Conquer Academy 2026 - <a href="aviso-legal.html">Aviso legal</a></p>
+  </footer>
+</body>
+</html>

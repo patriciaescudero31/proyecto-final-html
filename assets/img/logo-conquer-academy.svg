@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 112" role="img" aria-labelledby="title">
+  <title id="title">Conquer Academy</title>
+  <rect x="4" y="12" width="88" height="88" rx="22" fill="#17324d"/>
+  <path d="M27 39h44v10H38v14h29v9H38v14h34v10H27z" fill="#fff"/>
+  <circle cx="48" cy="24" r="5" fill="#ffc857"/>
+  <text x="108" y="58" fill="#17324d" font-family="Arial, sans-serif" font-size="32" font-weight="700">CONQUER</text>
+  <text x="110" y="88" fill="#39708d" font-family="Arial, sans-serif" font-size="20" letter-spacing="4">ACADEMY</text>
+</svg>

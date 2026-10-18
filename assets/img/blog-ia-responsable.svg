@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 300" role="img" aria-labelledby="title desc">
+  <title id="title">Uso responsable de inteligencia artificial</title>
+  <desc id="desc">Una persona revisa la información mostrada en un ordenador.</desc>
+  <rect width="480" height="300" rx="24" fill="#e9f4f7"/>
+  <rect x="52" y="46" width="263" height="176" rx="12" fill="#17324d"/>
+  <rect x="66" y="61" width="235" height="145" rx="5" fill="#fff"/>
+  <path d="M91 92h141m-141 25h177m-177 25h119" stroke="#39708d" stroke-linecap="round" stroke-width="10"/>
+  <path d="m91 168 12 12 24-27" fill="none" stroke="#65b891" stroke-linecap="round" stroke-linejoin="round" stroke-width="9"/>
+  <path d="M160 222v21m-43 12h86" stroke="#39708d" stroke-linecap="round" stroke-width="12"/>
+  <circle cx="361" cy="119" r="43" fill="#e6a27e"/>
+  <path d="M319 109c6-50 72-59 89-10l-13 10-14-18-12 21-18-15-12 19z" fill="#17324d"/>
+  <path d="M301 267c5-71 27-99 61-99s58 28 63 99" fill="#ffc857"/>
+</svg>

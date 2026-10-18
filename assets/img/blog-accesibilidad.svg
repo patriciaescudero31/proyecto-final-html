@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 300" role="img" aria-labelledby="title desc">
+  <title id="title">Accesibilidad web</title>
+  <desc id="desc">Una página web con controles claros y texto legible.</desc>
+  <rect width="480" height="300" rx="24" fill="#e9f4f7"/>
+  <rect x="62" y="38" width="356" height="224" rx="14" fill="#fff" stroke="#17324d" stroke-width="9"/>
+  <path d="M62 77h356" stroke="#17324d" stroke-width="30"/>
+  <circle cx="84" cy="61" r="5" fill="#e97761"/><circle cx="101" cy="61" r="5" fill="#ffc857"/><circle cx="118" cy="61" r="5" fill="#65b891"/>
+  <rect x="91" y="105" width="106" height="105" rx="8" fill="#c5e3e8"/>
+  <circle cx="143" cy="139" r="20" fill="#ffc857"/>
+  <path d="M110 191c4-23 18-34 33-34s29 11 33 34" fill="#39708d"/>
+  <path d="M228 116h151m-151 30h134m-134 30h106" stroke="#39708d" stroke-linecap="round" stroke-width="11"/>
+  <rect x="228" y="194" width="102" height="28" rx="8" fill="#65b891"/>
+</svg>
